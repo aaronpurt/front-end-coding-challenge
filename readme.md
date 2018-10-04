@@ -9,6 +9,7 @@ Building a navigation for a cruise line. Use CSS, HTML, and AngularJS to develop
 - Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).   
 - Follow the style guidelines listed below.  
 - Add buttons or links to login/logout.
+- Add image logo
 - Make production ready 
 - Clean code
 - Components best practices 
