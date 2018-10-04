@@ -10,13 +10,14 @@ Build a navigation for a website. Use CSS, HTML, and AngularJS to develop a resp
 - Follow the style guidelines listed below.  
 - Add buttons or links to login/logout.
 - Add image logo
-- Make production ready 
+- Make production/deployable ready 
 - Clean code
 - Components best practices 
 
 ## Bonuses
 
-- Use SASS or LESS to pre-compile your CSS.   
+- Use SASS or LESS to pre-compile your CSS. 
+- Babel for ES6 -> ES5
 - Add a CSS animation with transitions.  (Loading login component) 
 - Use JavaScript to control whether the login or the logout button is shown; only one should be visible at a time.  
 - Add the login component with
