@@ -20,6 +20,7 @@ Build a navigation for a website. Use CSS, HTML, and AngularJS to develop a resp
 - Babel for ES6 -> ES5
 - Add a CSS animation with transitions.  (Loading login component) 
 - Use JavaScript to control whether the login or the logout button is shown; only one should be visible at a time.  
+- Hosted online. (Heroku, firebase, AWS, etc.)
 - Add the login component with
 	- username / password 
 	- labels
