@@ -1,6 +1,6 @@
 # Front End Coding Challenge
 
-Build a navigation for a website. Use CSS, HTML, and AngularJS to develop a responsive navbar with login/logout. You can start with the code in index.html or create your own project. 
+Build a navigation for a website. Use CSS, HTML, and AngularJS or React to develop a responsive navbar with login/logout. You can start with the code in index.html or create your own project. 
 
 ## Requirements:
 
